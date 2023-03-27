@@ -1,5 +1,3 @@
-# recommendation-system
-recommendation system
 
 # Here I'm studying recommenation system 
 
