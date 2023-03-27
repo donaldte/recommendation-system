@@ -29,3 +29,7 @@ The link will be here as soon as possible
 `Pearson correlation` measures the linear correlation between two variables. The advantage of using Pearson correlation is that it takes into account the magnitude of the data and can handle both positive and negative correlations. Pearson correlation can also handle missing data, making it useful for datasets with many missing values. However, Pearson correlation assumes that the data is normally distributed, which may not always be the case. Pearson correlation is commonly used in collaborative filtering systems.
 
 In general, the choice of similarity metric depends on the nature of the dataset and the recommendation system being developed. For example, Jaccard similarity is commonly used in collaborative filtering systems, while cosine similarity is commonly used in content-based recommendation systems. Pearson correlation can be used in both collaborative filtering and content-based recommendation systems. It is also common to use a combination of similarity metrics to improve the quality and accuracy of recommendations.
+
+# Model Based Recommendation
+
+In contrast to `memory-based` recommendation approaches, `model-based` approaches seek to learn parameterized representations of users and items, so that recommendations can be made in terms of the learned parameters.
