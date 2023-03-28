@@ -16,7 +16,7 @@ The link will be here as soon as possible
 # Type of recommendation system
   - Memory based recommendation 
   - Model based recommendation
-  - Deep learing(neuron) recommendation
+  - Deep learning(neuron) recommendation
 
 # Memory based recommendation 
 
